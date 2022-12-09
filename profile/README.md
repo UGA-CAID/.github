@@ -16,10 +16,6 @@ This is the code repository of the Cortical Architecture Imaging and Discovery (
 
 Please contact Dr. Tianming Liu (tliu@uga.edu) or Zhengliang Liu (zl18864@uga.edu) for more information. 
 
-## Authors
-
-The CAID Team 
-
 ## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
