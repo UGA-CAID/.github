@@ -6,7 +6,7 @@ This is the code repository of the Cortical Architecture Imaging and Discovery (
 
 * Python
 * Nvidia Drivers (GPUs are typically required for our code)
-* In addition, please follow the requirements of each individual project
+* In addition, please follow the requirements of each individual project.
 
 ## Help
 
@@ -14,4 +14,4 @@ Please contact Dr. Tianming Liu (tliu@uga.edu) or Zhengliang Liu (zl18864@uga.ed
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details.
