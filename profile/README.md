@@ -1,8 +1,8 @@
 This is the code repository of the Cortical Architecture Imaging and Discovery (CAID) Lab at the University of Georgia. 
 
-## Getting Started
+![alt text](http://doc.x114.org/2013/1009/1669531381267801704.jpg)
 
-### Installation
+## Getting Started
 
 * Python
 * Nvidia Drivers (GPUs are typically required for our code)
