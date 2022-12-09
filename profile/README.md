@@ -1,7 +1,3 @@
-# UGA-CAID-Open-Source
-
-## Description
-
 This is the code repository of the Cortical Architecture Imaging and Discovery (CAID) Lab at the University of Georgia. 
 
 ## Getting Started
